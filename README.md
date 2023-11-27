@@ -16,7 +16,7 @@
   Install node.js, download svg file, download Jest, and Inquirer
   
   ## Usage
-  used to vreat a logo for businesses 
+  used to create a logo for businesses 
   
   ## License
   This project is licensed under the None license.
@@ -27,6 +27,8 @@
   
   ## Tests
   undefined
+
+  ## Images
   
   ## Questions
   My email [lindsgree@gmail.com](mailto:lindsgree@gmail.com). You can also find me on [GitHub](https://github.com/lindsayagreen).

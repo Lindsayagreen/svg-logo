@@ -3,7 +3,7 @@ const  inquirer = require("inquirer");
 const fs = require('fs');
 const {Circle, Triangle, Square} = require("./lib/shapes.js");
 const {writeFile} = require("fs/promises");
-const SVG = require("./lib/shapes.test.js");
+const svg = require("./lib/shapes.js");
 
 
 // function uses inquirer to ask user for desired logo characteristics
